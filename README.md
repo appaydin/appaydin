@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramazan APAYDIN</h1>
-<h3 align="center">Full Stack Web and DevOps Engineer and Entrepreneur</h3>
+<h3 align="center">Full Stack Web and DevOps Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/appaydin/](https://www.linkedin.com/in/appaydin/)
 

@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ramazan APAYDIN</h1>
-<h3 align="center">Full Stack Web & DevOps Engineer</h3>
-
-- 👨‍💻 All of my projects are available at [Projects](https://www.linkedin.com/in/appaydin/)
-- 💬 Ask me about **PHP, Symfony, Laravel, JS, vueJS, PostgreSQL**
+- All of my projects are available at [Projects](https://www.linkedin.com/in/appaydin/)
+- **PHP, Symfony, Laravel, JS, vueJS, PostgreSQL** Developer
 - :rocket: Open source **Contributor**
-- :shit: A failed entrepreneur
 
 <p align="center">
 <a href="https://twitter.com/appaydin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="appaydin" height="30" width="30" /></a>

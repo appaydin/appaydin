@@ -1,5 +1,5 @@
 - All of my projects are available at [Projects](https://www.linkedin.com/in/appaydin/)
-- Full Stack Developer | 
+- Full Stack Developer
 - **PHP, Symfony, Laravel, Mysql, PostgreSQL** Backend
 - **JS, Vue.js, Electron.js, CSS** Front-End
 - Open source **Contributor**
